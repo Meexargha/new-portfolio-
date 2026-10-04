@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <defs>
+    <linearGradient id="jwt-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb015b" />
+      <stop offset="50%" stop-color="#d63aff" />
+      <stop offset="100%" stop-color="#00b9f1" />
+    </linearGradient>
+  </defs>
+  <circle cx="12" cy="12" r="10" stroke="url(#jwt-grad)" stroke-width="2" />
+  <path d="M7 12H17M12 7V17" stroke="url(#jwt-grad)" stroke-width="2" stroke-linecap="round" />
+</svg>

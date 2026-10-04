@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <defs>
+    <linearGradient id="prompt-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+  <!-- Prompt Console Terminal Window -->
+  <rect x="2" y="3" width="20" height="18" rx="3" fill="rgba(245, 158, 11, 0.12)" stroke="#f59e0b" stroke-width="1.6" />
+  <!-- Terminal Prompt prompt symbol >_ -->
+  <path d="M6 8L10 11L6 14" stroke="#fbbf24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <line x1="12" y1="14" x2="17" y2="14" stroke="#10b981" stroke-width="2" stroke-linecap="round" />
+  <!-- AI Sparkle inside prompt -->
+  <path d="M16 7L17 9.5L19.5 10.5L17 11.5L16 14L15 11.5L12.5 10.5L15 9.5L16 7Z" fill="#10b981" opacity="0.9" />
+</svg>

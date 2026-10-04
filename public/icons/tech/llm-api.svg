@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none">
+  <defs>
+    <linearGradient id="api-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+  </defs>
+  <!-- Cloud AI API Server Box & Lightning Bolt -->
+  <rect x="2" y="3" width="20" height="7" rx="2" fill="rgba(56, 189, 248, 0.15)" stroke="#38bdf8" stroke-width="1.6" />
+  <circle cx="6" cy="6.5" r="1.2" fill="#38bdf8" />
+  <circle cx="9.5" cy="6.5" r="1.2" fill="#38bdf8" />
+  <path d="M12 10V14" stroke="#818cf8" stroke-width="1.6" stroke-linecap="round" />
+  <path d="M12.5 13L9 18.5H13L11.5 22L16 16.5H12L12.5 13Z" fill="#38bdf8" stroke="#38bdf8" stroke-width="1" stroke-linejoin="round" />
+</svg>

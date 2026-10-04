@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Academy of Technology Leaderboard",
+    "badge": "College Topper",
+    "rank": "#1",
+    "description": "Ranked 1st among 380 participants on the Academy of Technology leaderboard with 2208 EXP.",
+    "period": "College Topper: July",
+    "institution": "Academy of Technology, Kolkata",
+    "participants": "380 Participants",
+    "image": "/achievements/leaderboard.png",
+    "link": null,
+    "linkLabel": null
+  },
+  {
+    "id": 2,
+    "title": "TCS CodeVita 2025",
+    "badge": "Global Competitive Programming",
+    "rank": "AIR 3929",
+    "description": "Secured All India Rank 3929 in TCS CodeVita 2025, solving competitive algorithmic challenges among top engineering students nationwide.",
+    "period": "Season 2025",
+    "institution": "Tata Consultancy Services",
+    "participants": "National Level",
+    "image": null,
+    "link": "https://www.linkedin.com/feed/update/urn:li:activity:7397405188531154944/",
+    "linkLabel": "View LinkedIn Post"
+  },
+  {
+    "id": 3,
+    "title": "LeetCode Problem Solving",
+    "badge": "Data Structures & Algorithms",
+    "rank": "300+ Solved",
+    "description": "Solved 300+ problems on LeetCode, strengthening core algorithmic efficiency, graph traversal, and dynamic programming.",
+    "period": "Continuous Practice",
+    "institution": "LeetCode",
+    "participants": "Global Platform",
+    "image": null,
+    "link": "https://leetcode.com/u/ARGHAKUNDU/",
+    "linkLabel": "View LeetCode Profile"
+  },
+  {
+    "id": 4,
+    "title": "College Hackathon Finalist",
+    "badge": "Engineering Hackathon",
+    "rank": "Finalist",
+    "description": "Selected as a Finalist in a college technical hackathon and actively contributed to college tech team initiatives and technical fests.",
+    "period": "College Fest",
+    "institution": "Academy of Technology",
+    "participants": "Selected Teams",
+    "image": null,
+    "link": null,
+    "linkLabel": null
+  }
+]

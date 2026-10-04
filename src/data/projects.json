@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Streamify",
+    "subtitle": "Video Sharing REST API",
+    "category": "Backend",
+    "description": "A modular layered REST API engineered with JWT Bearer authentication, ownership-based authorization, Cloudinary media storage, and MongoDB query optimization using compound indexes and atomic operations.",
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "Cloudinary",
+      "Postman"
+    ],
+    "github": "https://github.com/Meexargha/Streamify-Video-Sharing-REST-API",
+    "live": null,
+    "linkedinPost": "https://lnkd.in/p/d8CFkn_g",
+    "image": "/projects/streamify.jpg",
+    "featured": true,
+    "highlights": [
+      "Layered REST API with JWT Bearer authentication and ownership-based authorization",
+      "Cloudinary integration for video and thumbnail asset pipelines",
+      "Indexed MongoDB query optimization with explain() scans and atomic $addToSet / $pull operations"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "MTECH-BOT",
+    "subtitle": "AI Study Assistant",
+    "category": "AI / GenAI",
+    "description": "An AI-powered academic study assistant designed around M.Tech coursework featuring interactive quiz generation, smart flashcard views, document topic extraction, and contextual study material chat.",
+    "technologies": [
+      "TypeScript",
+      "React",
+      "Vite",
+      "Node.js",
+      "GenAI APIs",
+      "Prompt Engineering"
+    ],
+    "github": "https://github.com/Meexargha/MTECH-BOT",
+    "live": "https://botiiitg.vercel.app/",
+    "linkedinPost": null,
+    "image": "/projects/mtech_bot.jpg",
+    "featured": true,
+    "highlights": [
+      "Contextual AI chat assistant tailored for M.Tech advanced coursework",
+      "Dynamic interactive quiz creation and real-time flashcard view generator",
+      "Automated document topic extraction and curriculum concept synthesis"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "REALTIM-map",
+    "subtitle": "Real-Time Geolocation Tracker",
+    "category": "Real-Time Web",
+    "description": "A real-time device location tracking web application using WebSockets to broadcast live geographic coordinates and render dynamic location markers on interactive Leaflet maps.",
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "Socket.io",
+      "Leaflet",
+      "JavaScript",
+      "EJS"
+    ],
+    "github": "https://github.com/Meexargha/REALTIM-map",
+    "live": null,
+    "linkedinPost": null,
+    "image": "/projects/realtim_map.jpg",
+    "featured": false,
+    "highlights": [
+      "Bi-directional WebSocket communication via Socket.io",
+      "Browser Geolocation API emission and multi-client coordinate tracking",
+      "Live marker updates and dynamic disconnect cleanups on Leaflet maps"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Hotel Backend",
+    "subtitle": "Hotel Staff Management System",
+    "category": "Backend",
+    "description": "A backend database solution to automate hotel staff record handling using structured Mongoose schemas, role-based access control (RBAC), and currency conversion API integration.",
+    "technologies": [
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Mongoose",
+      "JWT",
+      "RBAC",
+      "REST API"
+    ],
+    "github": "https://github.com/Meexargha/Hotel_backend",
+    "live": null,
+    "linkedinPost": null,
+    "image": "/projects/hotel_backend.jpg",
+    "featured": false,
+    "highlights": [
+      "Comprehensive CRUD and bulk operations for 6+ distinct staff roles",
+      "JWT authentication and RBAC middleware to protect administrative routes",
+      "Currency conversion third-party API integration for financial operations"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Reconfigurable 6G Communication System",
+    "subtitle": "Absorber/Reflector Metasurface",
+    "category": "ECE / Research Project",
+    "description": "Final-year ECE group project based on a reconfigurable absorber/reflector concept for 6G communication systems. Developed switchable metasurface structures evaluated via electromagnetic simulation.",
+    "technologies": [
+      "6G",
+      "RF",
+      "Metasurface",
+      "CST",
+      "Communication Systems",
+      "ECE"
+    ],
+    "github": "https://github.com/Meexargha/6g-project-final-year-R-D",
+    "live": "https://6g-project-final-year-r-d.vercel.app/",
+    "linkedinPost": null,
+    "image": "/projects/metasurface_6g.jpg",
+    "featured": false,
+    "isHardware": true,
+    "highlights": [
+      "Dynamically switchable absorber and reflector metasurface structures",
+      "Electromagnetic absorption and reflection analysis across targeted sub-THz frequencies",
+      "Hardware and RF simulation-grounded research project"
+    ]
+  }
+]
