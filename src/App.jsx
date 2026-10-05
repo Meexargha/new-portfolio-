@@ -61,7 +61,7 @@ export default function App() {
         <LinkedInPosts />
         <Quotes />
         <GitHubActivity />
-        <LeetCode />
+        <LeetCode theme={theme} />
         <YouTube />
         <Contact />
       </main>
